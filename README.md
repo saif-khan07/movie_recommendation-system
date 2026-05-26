@@ -2,7 +2,7 @@
 
 A Machine Learning based Movie Recommendation System that suggests movies to users based on their interests and viewing preferences. This project uses data analysis, feature engineering, and recommendation algorithms to provide personalized movie suggestions.
 
-https://github.com/saif-khan07/movie_recommendation-system/blob/90df87a781af4000476eb8493635e3b2fe937ae2/ml%20project.png
+<img width="960" height="441" alt="ml project" src="https://github.com/user-attachments/assets/f057cfcb-4f0d-4783-96d1-ffda97dc940c" />
 
 🚀 Features
 
@@ -23,6 +23,9 @@ https://github.com/saif-khan07/movie_recommendation-system/blob/90df87a781af4000
 - NLTK
 - Streamlit
 - Jupyter Notebook
+
+- <img width="960" height="439" alt="ml" src="https://github.com/user-attachments/assets/02b68499-61af-42a1-90c1-f9ea05d54428" />
+
 
 📊 Machine Learning Concepts Used
 
