@@ -2,6 +2,8 @@
 
 A Machine Learning based Movie Recommendation System that suggests movies to users based on their interests and viewing preferences. This project uses data analysis, feature engineering, and recommendation algorithms to provide personalized movie suggestions.
 
+https://github.com/saif-khan07/movie_recommendation-system/blob/90df87a781af4000476eb8493635e3b2fe937ae2/ml%20project.png
+
 🚀 Features
 
 - Movie recommendation based on similarity
